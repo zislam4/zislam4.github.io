@@ -1,0 +1,28 @@
+body {
+	background-color: blue;	
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12;
+}
+
+h1 {
+	text-align: left;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 18;
+}
+
+h2 {
+	font-size: 16;
+}
+
+h3 {
+	font-size: 14
+}
+
+.stress {
+	font-weight: bold;
+}
+
+.data {
+	text-align: right;
+}
