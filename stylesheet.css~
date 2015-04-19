@@ -68,6 +68,6 @@ a {
 	padding-left: 30px;
 }
 
-.date {
+.resume .date {
 	text-align: right;
 }
